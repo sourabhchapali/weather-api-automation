@@ -22,3 +22,6 @@ mvn clean test -Dcucumber.options="--plugin html:target/cucumber-html" -Dtest=Pa
 
 ### CSV File location for Assignment 1
 https://github.com/sourabhchapali/weather-api-automation/blob/master/src/test/java/heatIndex.csv
+
+### Location of Test Reports 
+https://github.com/sourabhchapali/weather-api-automation/blob/master/target/surefire-reports/cucumber-html-reports/overview-features.html
