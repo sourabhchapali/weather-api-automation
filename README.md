@@ -25,3 +25,4 @@ https://github.com/sourabhchapali/weather-api-automation/blob/master/src/test/ja
 
 ### Location of Test Reports 
 https://github.com/sourabhchapali/weather-api-automation/blob/master/target/surefire-reports/cucumber-html-reports/overview-features.html
+Note : Please run it locally once to get the reports 
