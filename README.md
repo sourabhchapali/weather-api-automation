@@ -29,3 +29,10 @@ Note : Please run it locally once to get the reports
 
 ### Asumption 
 * Temperature will be taken in Celcius unit only
+
+### Tech stack
+* Core Java
+* Open CSV 
+* karate 
+* Java Script
+* Cucumber 
